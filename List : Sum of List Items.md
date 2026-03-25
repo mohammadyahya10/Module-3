@@ -11,7 +11,11 @@ To write a Python program that calculates the **sum of all elements** in a list.
 ## 🧾 Program
 
 Add code here
-
+items=[153,147,124,102]
+print(sum(items))
 ## Output
+<img width="953" height="193" alt="image" src="https://github.com/user-attachments/assets/1df5313b-6718-4916-9e90-42bea38f02fa" />
 
 ## Result
+Thus the program executed successfully.
+
